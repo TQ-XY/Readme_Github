@@ -1,0 +1,8 @@
+- pos_register
+- pos_ordercancel
+- post_validate-order
+- pos_syncproducts
+- pos_tables_locationid
+- pos_floors_locationid
+- pos_api_product_sync_callback
+- tax-calculation
