@@ -5,8 +5,10 @@ hidden: false
 ---
 ## Watchout for what's coming!!!
 
+<br />
+
 <Callout icon="📘" theme="info">
-  **Template:**  Delete this callout and edit this page with your content and links.
+  FYI: this is a Test
 </Callout>
 
 <Cards>
