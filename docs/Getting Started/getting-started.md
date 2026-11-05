@@ -8,6 +8,8 @@ hidden: false
 <br />
 
 <Callout icon="📘" theme="info">
+  ### Note:
+
   FYI: this is a Test
 </Callout>
 
