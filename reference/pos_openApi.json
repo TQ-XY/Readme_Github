@@ -1,7 +1,7 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "POS API",
+    "title": "POS API -Update-",
     "description": "Our POS API provides endpoints for synchronizing product data, webhooks for receiving orders from digital sales channels in real time and APIs to manage the order lifecycle including preparation updates which are routed directly onwards to all integrated ordering platforms.",
     "version": "1.0.0"
   },
