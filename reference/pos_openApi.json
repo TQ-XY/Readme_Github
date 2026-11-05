@@ -58,7 +58,7 @@
       "post": {
         "responses": {
           "200": {
-            "description": "",
+            "description": "Update the preparation time for an order",
             "content": {
               "application/json": {
                 "examples": {
